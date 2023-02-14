@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior CS undergraduate student at <a href='www.di.uoa.gr'>National and Kapodistrian University of Athens</a>, Greece.
+subtitle: Senior CS undergraduate student at the <a href='https://www.di.uoa.gr'>University of Athens</a>, Greece.
 profile:
   align: right
   image: prof_pic.png
