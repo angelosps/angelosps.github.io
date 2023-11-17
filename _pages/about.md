@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Final-year undergraduate CS student at the <a href='https://en.uoa.gr'>University of Athens</a>, Greece.
+# subtitle: false
 profile:
   align: right
   image: prof_pic.png
@@ -16,4 +16,4 @@ social: false  # includes social icons at the bottom of the page
 ---
 <br>
 Hi! :wave: I am Angelos. 
-I am a final-year BSc student in Computer Science at the <a href='https://www.di.uoa.gr/en'>Dept. of Informatics and Telecommunications</a> in the University of Athens, Greece.
+I am a final-year Computer Science BSc student in the <a href='https://www.di.uoa.gr/en'>Dept. of Informatics and Telecommunications</a> at National and Kapodistrian University of Athens, Greece.
