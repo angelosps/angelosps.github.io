@@ -31,17 +31,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Undergraduate Research
+    - title: Undergraduate Research Student
       institution: AI Team, National and Kapodistrian University of Athens
       year: Jan. 2021 - Present
       description:
         - Working on logical reasoning using large language models (LLMs).
-
-    - title: Research Internship
-      institution: KDD lab, National and Kapodistrian University of Athens
-      year: Oct. 2023 - Present
-      description:
-        - Working on AutoFair project for fairness in ML.
 
 - title: Honors and Awards
   type: time_table
@@ -53,16 +47,9 @@
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
-#     - title: Topic 1.
+#     - title: Artificial Intelligence.
 #       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#         - Knowledge Representation and Reasoning.
+#     - title: Natural Language Processing.
+#       items: 
+#         - Understanding logical reasoning (and more) abilities of LLMs.
