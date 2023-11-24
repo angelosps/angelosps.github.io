@@ -25,8 +25,8 @@
       institution: National and Kapodistrian University of Athens, Greece
       year: Jan 2024 (exp.)
       description:
-        - Major in Computer Science.
-        - Specialization in Data and Knowledge Management.
+        - Major in Computer Science
+        - Specialization in Data and Knowledge Management
 
 - title: Experience
   type: time_table
@@ -35,14 +35,19 @@
       institution: AI Team, National and Kapodistrian University of Athens
       year: Jan. 2021 - Present
       description:
-        - Working on logical reasoning using large language models (LLMs).
+        - Working on logical reasoning using large language models (LLMs)
+    - title: Research internship
+      institution: KDD lab, National and Kapodistrian University of Athens
+      year: Oct. 2023 - Present
+      description:
+        - Working on the AutoFair project for fairness in machine learning (ML) algorithms
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2018 & 2019
       items: 
-        - Cyprus Olympiad in Informatics Finalist.
+        - Cyprus Olympiad in Informatics Finalist
 
 # - title: Academic Interests
 #   type: nested_list
