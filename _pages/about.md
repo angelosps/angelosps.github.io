@@ -16,4 +16,4 @@ social: false  # includes social icons at the bottom of the page
 ---
 <br>
 Hi! :wave: I am Angelos. 
-I am a final-year Computer Science BSc student in the <a href='https://www.di.uoa.gr/en'>Dept. of Informatics and Telecommunications</a> at National and Kapodistrian University of Athens, Greece. Also, I am a member of the university's <a href='https://ai.di.uoa.gr/'>AI Team</a> and I am currently engaged in a research internship at the <a href='http://kddlab.di.uoa.gr/'>KDD</a> lab.
+I am a final-year Computer Science BSc student in the <a href='https://www.di.uoa.gr/en'>Dept. of Informatics and Telecommunications</a> at National and Kapodistrian University of Athens, Greece. Also, I am a member of the university's <a href='https://ai.di.uoa.gr/'>AI Team</a> and a research intern at the <a href='http://kddlab.di.uoa.gr/'>KDD</a> lab.
