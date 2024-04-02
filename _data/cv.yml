@@ -21,7 +21,7 @@
     #         - Sub-description 2.
     - title: B.Sc. in Informatics and Telecommunications
       institution: National and Kapodistrian University of Athens, Greece
-      year: Jan 2024 (exp.)
+      year: 2024
       description:
         - Major in Computer Science
         - Specialization in Data and Knowledge Management
@@ -31,7 +31,7 @@
   contents:
     - title: Undergraduate Research Student
       institution: AI Team, National and Kapodistrian University of Athens
-      year: Jan. 2021 - Present
+      year: 2022 - 2024
       description:
         - Working on logical reasoning using large language models (LLMs)
     - title: Research internship
