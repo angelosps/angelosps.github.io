@@ -2,9 +2,7 @@ github_users:
   - angelosps
 
 github_repos:
-  - angelosps/Twitter-Sentiment-Analysis
   - angelosps/Question-Answering
-  - angelosps/Data-Mining
-  - angelosps/UC-Berkeley-PacMan-Projects
+  - angelosps/DELTA
   - angelosps/Extendible-Hashing
-  - angelosps/Point-Set-Polygonization
+  - angelosps/Polygonization-Optimal-Area-Approximation
