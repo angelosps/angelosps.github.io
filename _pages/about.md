@@ -20,4 +20,4 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! :wave: I am Angelos, first-year Computer Science PhD student at Boston University, advised by Professors <a href='https://cs-people.bu.edu/evimaria/'>Evimaria Terzi</a> and <a href='https://www.cs.bu.edu/fac/crovella/'>Mark Crovella</a>.
 
-I have completed my BSc degree in Computer Science from the <a href='https://www.di.uoa.gr/en'>Department of Informatics and Telecommunications</a> at the National and Kapodistrian University of Athens. My thesis was supervised by Prof. <a href='https://cgi.di.uoa.gr/~koubarak/'>Manolis Koubarakis</a>.
+I have completed my BSc degree in Computer Science from the <a href='https://www.di.uoa.gr/en'>Dept. of Informatics and Telecoms</a> at National and Kapodistrian University of Athens where I was supervised by Prof. <a href='https://cgi.di.uoa.gr/~koubarak/'>Manolis Koubarakis</a>.
