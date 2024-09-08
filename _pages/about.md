@@ -8,11 +8,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Center for Computing & Data Sciences
-    
-      665 Commonwealth Ave
-
-      Boston, MA 02215</p>
+    Center for Computing & Data Sciences\
+      665 Commonwealth Ave\
+      Boston, MA 02215
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
