@@ -9,10 +9,10 @@
 - title: Education
   type: time_table
   contents:
-    # - title: PhD
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1905
-    #   description:
+    - title: Ph.D. in Computer Science
+      institution: Boston University, USA
+      year: 2024-Present
+    # description:
     #     - Description 1.
     #     - Description 2.
     #     - title: Description 3.
