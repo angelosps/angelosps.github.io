@@ -38,7 +38,7 @@
       year: 2022-2024
       description:
         - As part of my undergraduate thesis, I worked on logical reasoning using transformer language models (TLMs), supervised by Prof. Manolis Koubarakis and Dr. Eleni Tsalapati.
-        - We created the first description logic benchmark to systematically evauate the logical reasoning capabilities of TLMs. For more details please refer to our <a href="https://arxiv.org/abs/2311.08941">paper</a>.
+        - We created the first description logic benchmark to systematically evaluate the logical reasoning capabilities of TLMs.
         - Published as a main proceedings paper at the <a href="https://event.cwi.nl/ekaw2024/">24th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2024)</a>. 
 
 - title: Honors and Awards
