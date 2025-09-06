@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello :wave: I am Angelos, second-year PhD student at [Boston University (BU)](https://www.bu.edu/), advised by Professors [Evimaria Terzi](https://cs-people.bu.edu/evimaria/) and [Mark Crovella](https://www.cs.bu.edu/fac/crovella/). 
 
-I have completed my B.Sc. in Computer Science at the [University of Athens](https://uoa.gr) (UoA), Greece, where I did my thesis with Prof. [Manolis Koubarakis](https://cgi.di.uoa.gr/~koubarak/). Prior joining BU, I did a research internship at the [KDD lab, UoA](http://kddlab.di.uoa.gr/) advised by Prof. [Dimitrios Gunopulos](http://kddlab.di.uoa.gr/dg.html).  
+I have completed my B.Sc. in Computer Science at the [National and Kapodistrian University of Athens](https://uoa.gr) (NKUA), Greece, where I did my thesis with Prof. [Manolis Koubarakis](https://cgi.di.uoa.gr/~koubarak/). Prior joining BU, I did a research internship at the [KDD lab, NKUA](http://kddlab.di.uoa.gr/) advised by Prof. [Dimitrios Gunopulos](http://kddlab.di.uoa.gr/dg.html).  
 
 My research interests broadly lie in machine learning, currently focusing on interpretability of large language models (LLMs). Before that, I did some work on evaluating the logical reasoning capabilities of LLMs.
