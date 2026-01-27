@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting a poster at the [2nd New England Mechanistic Interpretability (NEMI) workshop](https://nemiconf.github.io/summer25) workshop.
+Presenting a poster at the [2nd New England Mechanistic Interpretability (NEMI)](https://nemiconf.github.io/summer25) workshop.
