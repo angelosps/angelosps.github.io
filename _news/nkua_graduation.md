@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from the **University of Athens**!
+Graduated from the National and Kapodistrian University of Athens.

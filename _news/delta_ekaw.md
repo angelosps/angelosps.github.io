@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[**DELTA**](https://arxiv.org/abs/2311.08941) paper was accepted to **EKAW**!
+Our paper [Transformers in the Service of Description Logic-Based Contexts](https://arxiv.org/pdf/2311.08941) has been published at EKAW 2024.

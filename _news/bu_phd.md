@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD at **Boston University**!
+Started my PhD in Computer Science at Boston University.
