@@ -19,3 +19,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+      - ALLOW_GEMFILE_LOCK_UPDATE=1

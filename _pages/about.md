@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello :wave: I am Angelos, second-year PhD student at [Boston University (BU)](https://www.bu.edu/), advised by Professors [Evimaria Terzi](https://cs-people.bu.edu/evimaria/) and [Mark Crovella](https://www.cs.bu.edu/fac/crovella/). 
+Hello :wave: I am Angelos, a PhD student at [Boston University (BU)](https://www.bu.edu/), advised by Professors [Evimaria Terzi](https://cs-people.bu.edu/evimaria/) and [Mark Crovella](https://www.cs.bu.edu/fac/crovella/). 
 
-I have completed my B.Sc. in Computer Science at the [National and Kapodistrian University of Athens](https://uoa.gr) (NKUA), Greece, where I did my thesis with Prof. [Manolis Koubarakis](https://cgi.di.uoa.gr/~koubarak/). Prior joining BU, I did a research internship at the [KDD lab, NKUA](http://kddlab.di.uoa.gr/) advised by Prof. [Dimitrios Gunopulos](http://kddlab.di.uoa.gr/dg.html).  
+My research focuses on **mechanistic interpretability** of large language models (LLMs). Currently, I study how models encode *truth-related representations* and the geometry of these representations in activation space.
 
-My research interests broadly lie in machine learning, currently focusing on interpretability of large language models (LLMs). Before that, I did some work on evaluating the logical reasoning capabilities of LLMs.
+Before BU, I completed my B.Sc. in Informatics and Telecommunications at the [National and Kapodistrian University of Athens](https://uoa.gr), Greece. During that time, I worked on evaluating the logical reasoning capabilities of LLMs over description logic ontologies, advised by Prof. [Manolis Koubarakis](https://cgi.di.uoa.gr/~koubarak/). 
+
+I also did a research internship at the [KDD Lab, NKUA](http://kddlab.di.uoa.gr/), advised by Prof. [Dimitrios Gunopulos](http://kddlab.di.uoa.gr/dg.html), where I worked on fairness algorithms in machine learning.

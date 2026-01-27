@@ -10,8 +10,12 @@ manage_gemfile_lock() {
     git config --global --add safe.directory '*'
     if command -v git &> /dev/null && [ -f Gemfile.lock ]; then
         if git ls-files --error-unmatch Gemfile.lock &> /dev/null; then
-            echo "Gemfile.lock is tracked by git, keeping it intact"
-            git restore Gemfile.lock 2>/dev/null || true
+            if [ "${ALLOW_GEMFILE_LOCK_UPDATE:-0}" = "1" ]; then
+                echo "ALLOW_GEMFILE_LOCK_UPDATE=1 set, leaving Gemfile.lock as-is"
+            else
+                echo "Gemfile.lock is tracked by git, keeping it intact"
+                git restore Gemfile.lock 2>/dev/null || true
+            fi
         else
             echo "Gemfile.lock is not tracked by git, removing it"
             rm Gemfile.lock
