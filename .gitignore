@@ -11,3 +11,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+bu_cs_people_deploy_key
+bu_cs_people_deploy_key.pub
