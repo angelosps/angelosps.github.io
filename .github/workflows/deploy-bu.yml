@@ -1,0 +1,34 @@
+name: Build & Deploy to BU cs-people
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site (BU baseurl)
+        run: bundle exec jekyll build --baseurl "/${{ secrets.BU_USERNAME }}"
+
+      - name: Install SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.BU_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H csa2.bu.edu >> ~/.ssh/known_hosts
+
+      - name: Deploy to BU public_html
+        env:
+          BU_USERNAME: ${{ secrets.BU_USERNAME }}
+        run: |
+          rsync -av --delete _site/ ${BU_USERNAME}@csa2.bu.edu:~/public_html/
