@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello :wave: I am Angelos, a PhD student at [Boston University (BU)](https://www.bu.edu/), advised by Professors [Evimaria Terzi](https://cs-people.bu.edu/evimaria/) and [Mark Crovella](https://www.cs.bu.edu/fac/crovella/). 
+Hello :wave: I am Angelos, a PhD student at [Boston University](https://www.bu.edu/) (BU), advised by Professors [Evimaria Terzi](https://cs-people.bu.edu/evimaria/) and [Mark Crovella](https://www.cs.bu.edu/fac/crovella/). 
 
 My research focuses on **mechanistic interpretability** of large language models (LLMs). Currently, I study how models encode *truth-related representations* and the geometry of these representations in activation space.
 

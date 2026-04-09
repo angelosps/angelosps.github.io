@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Transformers in the Service of Description Logic-Based Contexts](https://arxiv.org/pdf/2311.08941) has been published at EKAW 2024.
+Our paper [Transformers in the Service of Description Logic-Based Contexts](https://arxiv.org/pdf/2311.08941) has been published at EKAW 2024. We evaluate transformer-based LMs on reasoning over expressive description logics.
