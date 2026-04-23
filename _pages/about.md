@@ -6,7 +6,7 @@ subtitle: <a href='https://www.bu.edu/cs/'>Department of Computer Science, Bosto
 
 profile:
   align: right
-  image: prof_pic.png
+  image: headshot_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Center for Computing & Data Sciences</p>
